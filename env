@@ -1,0 +1,2 @@
+REACT_APP_MAIN_URL = https://coursesnodejs.herokuapp.com
+REACT_APP_MAIN_EMPLOYEE_URL = https://coursesnodejs.herokuapp.com/employee
